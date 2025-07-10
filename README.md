@@ -34,13 +34,13 @@ This structure supports flexible and scalable analytics for reporting and decisi
 
 ### Actors and Use Cases:
 - **Rental Company Executive**:
-  - Analyzes rental trends, views city-level performance, and compares car segments
+  - Analyzes rental trends, views city-level performance, and compares car segments
 - **Rental Operator**:
-  - Updates bookings and manages rental records and fleet
+  - Updates bookings and manages rental records and fleet
 - **Data Engineer**:
-  - Develops data warehouse, manages sources, and processes backend data
+  - Develops data warehouse, manages sources, and processes backend data
 - **Data Visualization Developer**:
-  - Designs and implements dashboards and visual filters
+  - Designs and implements dashboards and visual filters
 
 This diagram models real-world interactions with the system to ensure each stakeholder’s needs are addressed.
 
@@ -59,6 +59,22 @@ This diagram illustrates how data visualization developers interact with the dat
 
 ---
 
+## 🌊 Data Flow Diagram
+
+![Data Flow Diagram](./data%20flow%20diagram-%20last%20updated.png)
+
+This diagram illustrates the end-to-end data flow for the car rental business intelligence solution, from data ingestion to final reporting. The process includes:
+- **Data Scraping**: Raw listing data from the Turo Website.
+- **Temporary Storage**: Raw data stored in an Excel Raw File.
+- **Data Augmentation**: A Python script augments missing revenue data.
+- **Data Cleaning and Normalization**: Car, location, and listing details are cleaned, formatted, and normalized.
+- **Cleaned Data Storage**: Data is stored temporarily in an Excel Cleaned File.
+- **Data Transfer**: SSIS is used to transfer cleaned data to the Azure Data Warehouse.
+- **Data Analysis**: Queried data from the Data Warehouse is analyzed using Tableau.
+- **Reporting**: Insights and charts are generated into reports for stakeholders (e.g., CEO).
+
+---
+
 ## 🛠 Technologies Used
 
 - **SQL Server / MySQL** – for data warehousing and querying
@@ -66,6 +82,8 @@ This diagram illustrates how data visualization developers interact with the dat
 - **Excel** – for initial data modeling and validation
 - **Draw.io** – for UML, sequence, and use case diagrams
 - **Python (Optional)** – for preprocessing and ETL (if needed)
+- **Azure Data Warehouse** - for scalable data storage
+- **SSIS** - for data integration and transfer
 
 ---
 
@@ -75,6 +93,7 @@ This diagram illustrates how data visualization developers interact with the dat
 - Clean data model for vehicle rental metrics
 - User-focused dashboard visualizations
 - Support for trend analysis, ROI tracking, and fleet management
+- Automated data flow from source to insights
 
 ---
 
@@ -91,10 +110,11 @@ To empower car rental businesses with the ability to:
 
 ```bash
 ├── /diagrams/
-│   ├── OLAP UML Diagram.jpg
-│   ├── RCA Use Case Diagram.jpg
-│   └── Sequence Diagram 3 last updated.png
+│   ├── OLAP UML Diagram.jpg
+│   ├── RCA Use Case Diagram.jpg
+│   ├── Sequence Diagram 3 last updated.png
+│   └── data flow diagram- last updated.png
 ├── /docs/
-│   └── Capstone Report.pdf
+│   └── Capstone Report.pdf
 ├── README.md
 
