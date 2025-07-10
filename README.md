@@ -12,7 +12,7 @@ The project involved:
 
 ---
 
-## 🧩 Entity-Relationship (UML) Diagram
+## 🧩 UML Diagram – Data Warehouse Schema
 
 ![UML Diagram](./OLAP%20UML%20Diagram.jpg)
 
@@ -46,12 +46,25 @@ This diagram models real-world interactions with the system to ensure each stake
 
 ---
 
+## 🔁 Sequence Diagram – Visualization Workflow
+
+![Sequence Diagram](./Sequence%20Diagram%203%20last%20updated.png)
+
+This diagram illustrates how data visualization developers interact with the data warehouse and dashboard components. It includes:
+- Connection to data sources
+- Processing and validation of rental data
+- Feedback loops for improving visuals
+- Scheduling data refresh
+- UX feedback integration for layout adjustments
+
+---
+
 ## 🛠 Technologies Used
 
-- **SQL Server ** – for data warehousing and querying
+- **SQL Server / MySQL** – for data warehousing and querying
 - **Tableau / Power BI** – for dashboard development
 - **Excel** – for initial data modeling and validation
-- **Draw.io** – for UML and use case diagrams
+- **Draw.io** – for UML, sequence, and use case diagrams
 - **Python (Optional)** – for preprocessing and ETL (if needed)
 
 ---
@@ -71,3 +84,17 @@ To empower car rental businesses with the ability to:
 - Monitor performance by location and vehicle segment
 - Improve fleet utilization and ROI
 - Make data-driven marketing and operational decisions
+
+---
+
+## 📁 Repository Structure
+
+```bash
+├── /diagrams/
+│   ├── OLAP UML Diagram.jpg
+│   ├── RCA Use Case Diagram.jpg
+│   └── Sequence Diagram 3 last updated.png
+├── /docs/
+│   └── Capstone Report.pdf
+├── README.md
+
