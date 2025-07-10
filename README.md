@@ -48,7 +48,7 @@ This diagram models real-world interactions with the system to ensure each stake
 
 ## 🛠 Technologies Used
 
-- **SQL Server / MySQL** – for data warehousing and querying
+- **SQL Server ** – for data warehousing and querying
 - **Tableau / Power BI** – for dashboard development
 - **Excel** – for initial data modeling and validation
 - **Draw.io** – for UML and use case diagrams
