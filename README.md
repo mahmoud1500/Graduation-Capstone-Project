@@ -1,120 +1,165 @@
-# 🚗 Car Rental Business Intelligence Dashboard – Capstone Project
+# Business Intelligence Capstone Project – Rental Car Market Analysis
 
-## 🎓 Project Overview
-
-This project was completed as part of my graduation capstone at Bellevue College's Business Intelligence program. The objective was to design and implement a robust data warehouse model and an interactive dashboard solution for a car rental business, enabling business stakeholders to make data-driven decisions and improve operational efficiency.
-
-The project involved:
-- Designing a star schema data warehouse
-- Creating data visualizations to analyze fleet performance
-- Building use case scenarios for multiple business personas
-- Integrating a complete data flow from source to visualization
+**Bellevue College | Senior Business Intelligence Analyst Program**  
+Author: **Mahmoud Faisal**  
 
 ---
 
-## 🧩 UML Diagram – Data Warehouse Schema
-
-![UML Diagram](./OLAP%20UML%20Diagram.jpg)
-
-This star schema includes:
-
-- **FactPerformance**: Captures key performance metrics like revenue, ROI, utilization rate, average daily price, etc.
-- **DimVehicle**: Vehicle attributes (Make, Model, Year, etc.)
-- **DimDate**: Monthly and yearly date information
-- **DimListing**: Customer interaction attributes like review and rating
-- **DimLocation**: Geographic data (city and state)
-
-This structure supports flexible and scalable analytics for reporting and decision-making.
+## 📌 Project Overview
+This capstone project analyzes the **rental car market** to help stakeholders make data-driven decisions regarding **fleet optimization, market entry timing, and investment strategies**.  
+We applied **Agile Scrum methodology** and BI tools to collect, clean, analyze, and visualize the data.
 
 ---
 
-## 📘 Use Case Diagram
-
-![Use Case Diagram](./RCA%20Use%20Case%20Diagram.jpg)
-
-### Actors and Use Cases:
-- **Rental Company Executive**:
-  - Analyzes rental trends, views city-level performance, and compares car segments
-- **Rental Operator**:
-  - Updates bookings and manages rental records and fleet
-- **Data Engineer**:
-  - Develops data warehouse, manages sources, and processes backend data
-- **Data Visualization Developer**:
-  - Designs and implements dashboards and visual filters
-
-This diagram models real-world interactions with the system to ensure each stakeholder’s needs are addressed.
+## 🧑‍🤝‍🧑 Meet the Team
+- **Paul Stephen** – Data Visualization Developer  
+- **Mahmoud Faisal** – Data Engineer  
+- **Genie Carandang** – Team Lead  
 
 ---
 
-## 🔁 Sequence Diagram – Visualization Workflow
+## 🎯 Purpose (Slide 2)
+- Equip stakeholders with actionable insights.
+- Optimize rental car operations.
+- Identify profitable opportunities.
+- Recommend **ideal locations**, **timing**, and **vehicle types**.
 
-![Sequence Diagram](./Sequence%20Diagram%203%20last%20updated.png)
-
-This diagram illustrates how data visualization developers interact with the data warehouse and dashboard components. It includes:
-- Connection to data sources
-- Processing and validation of rental data
-- Feedback loops for improving visuals
-- Scheduling data refresh
-- UX feedback integration for layout adjustments
+![Purpose Slide](images/purpose.png)
 
 ---
 
-## 🌊 Data Flow Diagram
+## 📂 Project Overview (Slide 3)
+**Synopsis:**  
+Our insights cover:
+- Rental car market dynamics.
+- Support for informed decisions in:
+  - Fleet optimization.
+  - Operational strategies.
+  - Investment planning.
 
-![Data Flow Diagram](./data%20flow%20diagram-%20last%20updated.png)
-
-This diagram illustrates the end-to-end data flow for the car rental business intelligence solution, from data ingestion to final reporting. The process includes:
-- **Data Scraping**: Raw listing data from the Turo Website.
-- **Temporary Storage**: Raw data stored in an Excel Raw File.
-- **Data Augmentation**: A Python script augments missing revenue data.
-- **Data Cleaning and Normalization**: Car, location, and listing details are cleaned, formatted, and normalized.
-- **Cleaned Data Storage**: Data is stored temporarily in an Excel Cleaned File.
-- **Data Transfer**: SSIS is used to transfer cleaned data to the Azure Data Warehouse.
-- **Data Analysis**: Queried data from the Data Warehouse is analyzed using Tableau.
-- **Reporting**: Insights and charts are generated into reports for stakeholders (e.g., CEO).
+![Overview Slide](images/overview.png)
 
 ---
 
-## 🛠 Technologies Used
+## 🎯 Objectives (Slide 4)
+- Pinpoint profitable locations and vehicle types.
+- Recommend optimal business launch timing.
+- Provide visual dashboards for decision-making.
 
-- **SQL Server / MySQL** – for data warehousing and querying
-- **Tableau / Power BI** – for dashboard development
-- **Excel** – for initial data modeling and validation
-- **Draw.io** – for UML, sequence, and use case diagrams
-- **Python (Optional)** – for preprocessing and ETL (if needed)
-- **Azure Data Warehouse** - for scalable data storage
-- **SSIS** - for data integration and transfer
+![Objectives Slide](images/objectives.png)
 
 ---
 
-## 📊 Key Features
+## 🛠 Tools (Slide 5)
+- SQL Server (SSAS, SSIS)
+- Tableau
+- Excel
+- JIRA
 
-- Multi-dimensional data warehouse using star schema
-- Clean data model for vehicle rental metrics
-- User-focused dashboard visualizations
-- Support for trend analysis, ROI tracking, and fleet management
-- Automated data flow from source to insights
-
----
-
-## 🔗 Project Goal
-
-To empower car rental businesses with the ability to:
-- Monitor performance by location and vehicle segment
-- Improve fleet utilization and ROI
-- Make data-driven marketing and operational decisions
+![Tools Slide](images/tools.png)
 
 ---
 
-## 📁 Repository Structure
+## 📋 Requirements Gathering & User Stories (Slides 6–7)
+- Requirements gathered from stakeholders.
+- User stories designed to address **market location**, **timing**, and **fleet mix**.
 
-```bash
-├── /diagrams/
-│   ├── OLAP UML Diagram.jpg
-│   ├── RCA Use Case Diagram.jpg
-│   ├── Sequence Diagram 3 last updated.png
-│   └── data flow diagram- last updated.png
-├── /docs/
-│   └── Capstone Report.pdf
-├── README.md
+![User Stories Slide](images/user_stories.png)
+
+---
+
+## ⚙ Agile Methodology & Scrum (Slide 8)
+- Sprint planning, daily stand-ups, sprint reviews.
+- Benefits:
+  - Iterative development.
+  - Continuous collaboration.
+  - Faster value delivery.
+
+![Agile Slide](images/agile.png)
+
+---
+
+## 🗂 Project Management with JIRA (Slides 9–10)
+- Transparent tracking of tasks.
+- Four sprints:
+  1. Sprint 0 – April 21–May 4
+  2. Sprint 1 – May 5–May 18
+  3. Sprint 2 – May 19–June 1
+  4. Sprint 3 – June 2–June 9
+
+![Jira Slide](images/jira.png)
+
+---
+
+## 🖥 Design Documents (Slides 11–14)
+- Use Case Diagram
+- Data Flow Diagram
+- OLAP UML Diagram
+- Sequence Diagram
+
+![Design Slide](images/design_docs.png)
+
+---
+
+## 🔄 Data Pipeline (Slides 15–20)
+1. Data collection from public datasets.
+2. Data cleaning with SQL scripts.
+3. SSAS relationships for OLAP analysis.
+4. SSIS ETL workflows.
+
+![Pipeline Slide](images/pipeline.png)
+
+---
+
+## 📊 Tableau Analysis & Insights (Slides 21–26)
+**Vehicle Type Analysis:**  
+- SUVs dominate ~50% of the rental market.
+
+**Top SUV Models:**
+- Chevy Suburban
+- Chevy Tahoe
+- Ford Bronco
+- Jeep Wrangler
+- Tesla Model Y
+
+**Best Locations:**
+- CA, CO, TN, TX
+
+**Best Timing:**
+- June/July
+
+![Dashboard Slide](images/dashboard.png)
+
+---
+
+## 🧩 Blueprint for Success (Slide 27)
+- Target high-demand states.
+- Launch in peak season.
+- Maintain SUV-heavy fleet.
+
+![Blueprint Slide](images/blueprint.png)
+
+---
+
+## 💡 Reflection (Slide 28)
+**What went well:**
+- Clear location, timing, and model recommendations.
+- Strong teamwork and Agile adoption.
+
+**Challenges:**
+- Difficulty sourcing high-quality datasets.
+
+**Future improvements:**
+- Add cost analysis.
+- Integrate real-time competitor data.
+
+![Reflection Slide](images/reflection.png)
+
+---
+
+## 📧 Author
+**Mahmoud Faisal**  
+Senior Business Intelligence Analyst Student | Bellevue College  
+[LinkedIn](https://www.linkedin.com/) | [Email](mailto:your.email@example.com)
+
 
