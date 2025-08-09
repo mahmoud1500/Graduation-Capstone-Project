@@ -42,8 +42,6 @@ Our insights cover:
 - Recommend optimal business launch timing.
 - Provide visual dashboards for decision-making.
 
-![Objectives Slide](images/objectives.png)
-
 ---
 
 ## 🛠 Tools (Slide 5)
@@ -58,7 +56,7 @@ Our insights cover:
 - Requirements gathered from stakeholders.
 - User stories designed to address **market location**, **timing**, and **fleet mix**.
 
-![User Stories Slide](Jira Sprints.jpg)
+![User Stories Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/666d8d42b7112b8e482e5a21c1ca34654246a08a/Jira%20Sprints.jpg)
 
 ---
 
