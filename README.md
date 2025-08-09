@@ -67,7 +67,6 @@ Our insights cover:
   - Continuous collaboration.
   - Faster value delivery.
 
-![Agile Slide](images/agile.png)
 
 ---
 
@@ -79,7 +78,7 @@ Our insights cover:
   3. Sprint 2 – May 19–June 1
   4. Sprint 3 – June 2–June 9
 
-![Jira Slide](images/jira.png)
+![Jira Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/Jira%20Sprints.jpg)
 
 ---
 
@@ -89,7 +88,7 @@ Our insights cover:
 - OLAP UML Diagram
 - Sequence Diagram
 
-![Design Slide](images/design_docs.png)
+![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/data%20flow%20diagram-%20last%20updated.png)(https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/OLAP%20UML%20Diagram.jpg)(https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/RCA%20Use%20Case%20Diagram.jpg)(https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/Sequence%20Diagram%203%20last%20updated.png)
 
 ---
 
