@@ -88,7 +88,10 @@ Our insights cover:
 - OLAP UML Diagram
 - Sequence Diagram
 
-![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/data%20flow%20diagram-%20last%20updated.png)(https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/OLAP%20UML%20Diagram.jpg)(https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/RCA%20Use%20Case%20Diagram.jpg)(https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/Sequence%20Diagram%203%20last%20updated.png)
+![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/data%20flow%20diagram-%20last%20updated.png)
+![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/OLAP%20UML%20Diagram.jpg)
+![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/RCA%20Use%20Case%20Diagram.jpg)
+![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/Sequence%20Diagram%203%20last%20updated.png)
 
 ---
 
