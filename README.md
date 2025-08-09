@@ -115,14 +115,14 @@ Our insights cover:
 - Ford Bronco
 - Jeep Wrangler
 - Tesla Model Y
-
+![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/6b938edca3958edb753565b3954bf63c94597e36/Jira%20Sprints.jpg)
 **Best Locations:**
 - CA, CO, TN, TX
-
+![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/86d84a0a9baa4f0bc7b69904f2c3690f78365165/Tableau%20Map%20Analysis.png)
 **Best Timing:**
 - June/July
 
-![Dashboard Slide](images/dashboard.png)
+![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/86d84a0a9baa4f0bc7b69904f2c3690f78365165/Tableau%20analysis.png)
 
 ---
 
