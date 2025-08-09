@@ -101,7 +101,7 @@ Our insights cover:
 5. SSIS ETL workflows
 
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/5da5a738947fc54e9c283648cab16880fb160b39/Data%20Collection.jpg)
-![Pipeline Slide]([images/pipeline.png](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/c61706d313c3b923c11bf4ae5e667078f9959756/Data%20Cleaning.jpg))
+![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/8a8692d19f2e90593b24882408070c10760b8d9e/Data%20Cleaning.jpg))
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/Data%20Collection.jpg)
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/SQL%20Scrip%20create%20table%20screen%20shot.png)
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/SQL%20Upload%20data%20scrip%20Screen%20shot.png)
@@ -135,9 +135,6 @@ Our insights cover:
 - Target high-demand states.
 - Launch in peak season.
 - Maintain SUV-heavy fleet.
-
-![Blueprint Slide](images/blueprint.png)
-
 ---
 
 ## 💡 Reflection (Slide 28)
