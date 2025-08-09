@@ -102,7 +102,6 @@ Our insights cover:
 
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/5da5a738947fc54e9c283648cab16880fb160b39/Data%20Collection.jpg)
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/8a8692d19f2e90593b24882408070c10760b8d9e/Data%20Cleaning.jpg))
-![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/Data%20Collection.jpg)
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/SQL%20Scrip%20create%20table%20screen%20shot.png)
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/SQL%20Upload%20data%20scrip%20Screen%20shot.png)
 ![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/5da5a738947fc54e9c283648cab16880fb160b39/SSIS%20Table%20relationship.png)
