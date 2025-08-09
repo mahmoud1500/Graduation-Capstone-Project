@@ -95,11 +95,14 @@ Our insights cover:
 ---
 
 ## 🔄 Data Pipeline (Slides 15–20)
-1. Data collection from public datasets. (https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/c61706d313c3b923c11bf4ae5e667078f9959756/Data%20Cleaning.jpg)
+1. Data collection from public datasets.
 3. Data cleaning with SQL scripts.
 4. SSAS relationships for OLAP analysis.
 5. SSIS ETL workflows
-![Pipeline Slide](images/pipeline.png)
+![Pipeline Slide]([images/pipeline.png](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/c61706d313c3b923c11bf4ae5e667078f9959756/Data%20Cleaning.jpg))
+![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/Data%20Collection.jpg)
+![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/SQL%20Scrip%20create%20table%20screen%20shot.png)
+![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/SQL%20Upload%20data%20scrip%20Screen%20shot.png)
 
 ---
 
