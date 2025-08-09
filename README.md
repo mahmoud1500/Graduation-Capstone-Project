@@ -84,23 +84,21 @@ Our insights cover:
 
 ## 🖥 Design Documents (Slides 11–14)
 - Use Case Diagram
+  ![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/RCA%20Use%20Case%20Diagram.jpg)
 - Data Flow Diagram
+  ![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/data%20flow%20diagram-%20last%20updated.png)
 - OLAP UML Diagram
-- Sequence Diagram
-
-![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/data%20flow%20diagram-%20last%20updated.png)
 ![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/OLAP%20UML%20Diagram.jpg)
-![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/RCA%20Use%20Case%20Diagram.jpg)
+- Sequence Diagram
 ![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/Sequence%20Diagram%203%20last%20updated.png)
 
 ---
 
 ## 🔄 Data Pipeline (Slides 15–20)
-1. Data collection from public datasets.
-2. Data cleaning with SQL scripts.
-3. SSAS relationships for OLAP analysis.
-4. SSIS ETL workflows.
-
+1. Data collection from public datasets. (https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/c61706d313c3b923c11bf4ae5e667078f9959756/Data%20Cleaning.jpg)
+3. Data cleaning with SQL scripts.
+4. SSAS relationships for OLAP analysis.
+5. SSIS ETL workflows
 ![Pipeline Slide](images/pipeline.png)
 
 ---
