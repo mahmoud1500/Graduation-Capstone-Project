@@ -115,7 +115,7 @@ Our insights cover:
 - Ford Bronco
 - Jeep Wrangler
 - Tesla Model Y
-![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/6b938edca3958edb753565b3954bf63c94597e36/Jira%20Sprints.jpg)
+![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7aa27cb3c4e5dbd08e071a927bfbf1680999f0bc/SUV%20Brands.jpg)
 **Best Locations:**
 - CA, CO, TN, TX
 ![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/86d84a0a9baa4f0bc7b69904f2c3690f78365165/Tableau%20Map%20Analysis.png)
@@ -143,17 +143,5 @@ Our insights cover:
 **Challenges:**
 - Difficulty sourcing high-quality datasets.
 
-**Future improvements:**
-- Add cost analysis.
-- Integrate real-time competitor data.
-
-![Reflection Slide](images/reflection.png)
-
----
-
-## 📧 Author
-**Mahmoud Faisal**  
-Senior Business Intelligence Analyst Student | Bellevue College  
-[LinkedIn](https://www.linkedin.com/) | [Email](mailto:your.email@example.com)
 
 
