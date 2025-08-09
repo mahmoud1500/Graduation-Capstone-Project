@@ -78,7 +78,7 @@ Our insights cover:
   3. Sprint 2 – May 19–June 1
   4. Sprint 3 – June 2–June 9
 
-![Jira Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/Jira%20Sprints.jpg)
+![Jira Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7aa0bfbabaa578fbfc0439c4c5baa36862745c60/Sprint%20Schedule.png)
 
 ---
 
