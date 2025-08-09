@@ -24,8 +24,6 @@ We applied **Agile Scrum methodology** and BI tools to collect, clean, analyze, 
 - Identify profitable opportunities.
 - Recommend **ideal locations**, **timing**, and **vehicle types**.
 
-![Purpose Slide](images/purpose.png)
-
 ---
 
 ## 📂 Project Overview (Slide 3)
@@ -36,8 +34,6 @@ Our insights cover:
   - Fleet optimization.
   - Operational strategies.
   - Investment planning.
-
-![Overview Slide](images/overview.png)
 
 ---
 
@@ -56,15 +52,13 @@ Our insights cover:
 - Excel
 - JIRA
 
-![Tools Slide](images/tools.png)
-
 ---
 
 ## 📋 Requirements Gathering & User Stories (Slides 6–7)
 - Requirements gathered from stakeholders.
 - User stories designed to address **market location**, **timing**, and **fleet mix**.
 
-![User Stories Slide](images/user_stories.png)
+![User Stories Slide](Jira Sprints.jpg)
 
 ---
 
