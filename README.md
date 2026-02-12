@@ -18,7 +18,7 @@ We applied **Agile Scrum methodology** and BI tools to collect, clean, analyze, 
 
 ---
 
-## 🎯 Purpose (Slide 2)
+## 🎯 Purpose
 - Equip stakeholders with actionable insights.
 - Optimize rental car operations.
 - Identify profitable opportunities.
@@ -26,7 +26,7 @@ We applied **Agile Scrum methodology** and BI tools to collect, clean, analyze, 
 
 ---
 
-## 📂 Project Overview (Slide 3)
+## 📂 Project Overview 
 **Synopsis:**  
 Our insights cover:
 - Rental car market dynamics.
@@ -37,14 +37,14 @@ Our insights cover:
 
 ---
 
-## 🎯 Objectives (Slide 4)
+## 🎯 Objectives
 - Pinpoint profitable locations and vehicle types.
 - Recommend optimal business launch timing.
 - Provide visual dashboards for decision-making.
 
 ---
 
-## 🛠 Tools (Slide 5)
+## 🛠 Tools 
 - SQL Server (SSAS, SSIS)
 - Tableau
 - Excel
@@ -52,7 +52,7 @@ Our insights cover:
 
 ---
 
-## 📋 Requirements Gathering & User Stories (Slides 6–7)
+## 📋 Requirements Gathering & User Stories 
 - Requirements gathered from stakeholders.
 - User stories designed to address **market location**, **timing**, and **fleet mix**.
 
@@ -60,7 +60,7 @@ Our insights cover:
 
 ---
 
-## ⚙ Agile Methodology & Scrum (Slide 8)
+## ⚙ Agile Methodology & Scrum 
 - Sprint planning, daily stand-ups, sprint reviews.
 - Benefits:
   - Iterative development.
@@ -70,7 +70,7 @@ Our insights cover:
 
 ---
 
-## 🗂 Project Management with JIRA (Slides 9–10)
+## 🗂 Project Management with JIRA 
 - Transparent tracking of tasks.
 - Four sprints:
   1. Sprint 0 – April 21–May 4
@@ -78,34 +78,37 @@ Our insights cover:
   3. Sprint 2 – May 19–June 1
   4. Sprint 3 – June 2–June 9
 
-![Jira Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7aa0bfbabaa578fbfc0439c4c5baa36862745c60/Sprint%20Schedule.png)
+<img width="1140" height="859" alt="image" src="https://github.com/user-attachments/assets/1e67397e-2fc7-40e8-96b6-807486ed29bb" />
+
 
 ---
 
-## 🖥 Design Documents (Slides 11–14)
+## 🖥 Design Documents 
 - Use Case Diagram
-  ![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/RCA%20Use%20Case%20Diagram.jpg)
+ <img width="1115" height="771" alt="image" src="https://github.com/user-attachments/assets/b89d69c7-c9dd-4484-bbaa-9f35330a85f2" />
+
 - Data Flow Diagram
-  ![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/data%20flow%20diagram-%20last%20updated.png)
+  <img width="1052" height="880" alt="image" src="https://github.com/user-attachments/assets/03b4987b-0e5f-4e4b-b05a-7f72db648b4b" />
+
 - OLAP UML Diagram
-![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/OLAP%20UML%20Diagram.jpg)
+<img width="1148" height="791" alt="image" src="https://github.com/user-attachments/assets/ef800a5e-bb42-4ec4-89e7-e6152b557cbf" />
+
 - Sequence Diagram
-![Design Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/1580cca283ab7c536f18125ffce83956e1ca97a2/Sequence%20Diagram%203%20last%20updated.png)
+<img width="1160" height="772" alt="image" src="https://github.com/user-attachments/assets/7f0cc6d3-d322-468f-99b3-c63d3a2f2f53" />
 
 ---
 
-## 🔄 Data Pipeline (Slides 15–20)
-1. Data collection from public datasets.
-3. Data cleaning with SQL scripts.
-4. SSAS relationships for OLAP analysis.
-5. SSIS ETL workflows
+## 🔄 Data Pipeline
+1. Data collection from public datasets. <img width="1150" height="779" alt="image" src="https://github.com/user-attachments/assets/d461ff1f-9c00-4d56-8dd2-53d17e31371f" />
 
-![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/5da5a738947fc54e9c283648cab16880fb160b39/Data%20Collection.jpg)
-![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/8a8692d19f2e90593b24882408070c10760b8d9e/Data%20Cleaning.jpg))
-![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/SQL%20Scrip%20create%20table%20screen%20shot.png)
-![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7ce2ba81590353e2b8852d5728e131980abc1839/SQL%20Upload%20data%20scrip%20Screen%20shot.png)
-![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/5da5a738947fc54e9c283648cab16880fb160b39/SSIS%20Table%20relationship.png)
-![Pipeline Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/8a8692d19f2e90593b24882408070c10760b8d9e/SSIS%20Data.png)
+2. Data cleaning with SQL scripts.<img width="1142" height="716" alt="image" src="https://github.com/user-attachments/assets/2774e527-6e1d-4bd2-aa71-641af85d8c92" />
+
+3. SSAS relationships for OLAP analysis. <img width="1352" height="759" alt="image" src="https://github.com/user-attachments/assets/471fbcc6-8a19-469f-8010-701324da25c6" />
+
+4. SSIS ETL workflows<img width="1351" height="711" alt="image" src="https://github.com/user-attachments/assets/7ad98d07-1b0c-4759-8706-584b3a33ebeb" />
+
+
+
 
 ---
 
@@ -119,24 +122,26 @@ Our insights cover:
 - Ford Bronco
 - Jeep Wrangler
 - Tesla Model Y
-![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/7aa27cb3c4e5dbd08e071a927bfbf1680999f0bc/SUV%20Brands.jpg)
+<img width="871" height="1107" alt="image" src="https://github.com/user-attachments/assets/64b85aaf-d610-44e7-8537-f1dd2c4b22ec" />
+
 **Best Locations:**
 - CA, CO, TN, TX
-![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/86d84a0a9baa4f0bc7b69904f2c3690f78365165/Tableau%20Map%20Analysis.png)
+<img width="1220" height="752" alt="image" src="https://github.com/user-attachments/assets/34dd1704-9be0-4e57-8de1-cf2c2cf369d4" />
+
 **Best Timing:**
 - June/July
 
-![Dashboard Slide](https://github.com/mahmoud1500/Graduation-Capstone-Project/blob/86d84a0a9baa4f0bc7b69904f2c3690f78365165/Tableau%20analysis.png)
+<img width="1045" height="892" alt="image" src="https://github.com/user-attachments/assets/c027351d-b3c1-412b-a7fb-75f8dd6fce63" />
 
 ---
 
-## 🧩 Blueprint for Success (Slide 27)
+## 🧩 Blueprint for Success 
 - Target high-demand states.
 - Launch in peak season.
 - Maintain SUV-heavy fleet.
 ---
 
-## 💡 Reflection (Slide 28)
+## 💡 Reflection 
 **What went well:**
 - Clear location, timing, and model recommendations.
 - Strong teamwork and Agile adoption.
